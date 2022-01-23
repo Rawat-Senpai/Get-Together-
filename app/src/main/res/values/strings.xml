@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Together !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resource_used">-> jitsi-meet-sdk for video call \n\n-> Firebase for authentication ,chat , notification and post \n\n-> kotlin for creating app \n\n->Material Design for interface </string>
+    <string name="app_info"> -> Android Documentation from Google \n\n -> Firebase Documentation \n\n -> Stack Overflow (🙏 🙏 🙏) \n\n -> Youtube for specific section \n\n -> GFG Documentation </string>
+    <string name="message_for_video_call">Create a unique room id, ask your friends \n to join the same room through that Id \nand enjoy video call with your \nfriends  and family</string>
+</resources>

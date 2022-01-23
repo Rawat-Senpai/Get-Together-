@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/fav_unlike.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_bookmarks_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_call_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_chat_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_favorite_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_group_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_local_post_office_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_mark_chat_unread_24.xml" value="0.1" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_person_pin_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_settings_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_share_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_baseline_videocam_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_github.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_github_.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_instagram.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_linkedin.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/ic_twitter_ic.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/liked_.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/lolog_vector.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/message_box.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable-v24/message_box_send.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_dehaze_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_chat_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_creat_post.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_info.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_old_user.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_person_name.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_post.xml" value="0.23282051282051283" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/activity_video_calling.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/drawer_headder.xml" value="0.4" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/fragment_app_info_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/fragment_developer_info_frag.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/loading_layout.xml" value="0.2101851851851852" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/post_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/recieve_message.xml" value="0.176" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/send_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/layout/user_list_layout.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Shobhit/AndroidStudioProjects/GetTogether2/app/src/main/res/menu/headder_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

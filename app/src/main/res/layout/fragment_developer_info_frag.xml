@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".developer_info_frag">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#263345"
+
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:paddingLeft="2dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="23dp"
+            android:paddingRight="2dp"
+            android:orientation="horizontal">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                app:cardCornerRadius="22dp"
+                app:cardElevation="8dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/developer_to_app"
+                    android:layout_width="200dp"
+                    android:layout_height="65dp"
+                    android:clickable="true"
+                    android:layout_marginTop="-10dp"
+                    android:layout_marginBottom="-10dp"
+                    android:backgroundTint="#131C29"
+                    android:letterSpacing="0.04"
+                    android:text="App Info"
+                    android:textAllCaps="false"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+
+                android:layout_marginStart="15dp"
+                app:cardCornerRadius="22dp"
+                app:cardElevation="8dp"
+                android:layout_height="wrap_content">
+
+
+
+                <Button
+                    android:layout_width="210dp"
+                    android:layout_height="65dp"
+                    android:backgroundTint="#B9263345"
+                    android:layout_marginTop="-10dp"
+                    android:layout_marginBottom="-10dp"
+                    android:letterSpacing="0.04"
+                    android:clickable="true"
+                    android:text="Developer Info"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbarSize="6dp"
+            android:background="#263345"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="20sp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="8dp"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="About Me :-"
+                        android:textSize="18sp"
+                        android:textColor="#FFFDFD"
+                        android:background="#EB263345"
+                        android:textStyle="bold"
+                        android:padding="10dp"/>
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_marginTop="20dp"
+                    app:cardElevation="8dp"
+                    app:cardCornerRadius="22dp"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:textColor="#FFFDFD"
+                        android:gravity="center"
+                        android:background="#EB263345"
+                        android:text="I'm a passionate Android Developer from Hills."
+                        android:padding="10dp"
+                        android:layout_height="wrap_content"/>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_marginStart="22dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginTop="20dp"
+                    app:cardCornerRadius="22dp"
+                    app:cardElevation="10dp"
+                    android:layout_marginBottom="25dp"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:textSize="17sp"
+                        android:padding="10dp"
+                        android:textColor="#FFFDFD"
+                        android:background="#EB263345"
+                        android:layout_height="wrap_content"
+                        android:text="-> Currently pursuing B.Tech From RJIT Gwalior.\n\n -> Currently learning Android Development with Kotlin . \n\n -> Looking to collaborate on OpenSource Projects .\n\n ->How to reach me majin.shobhitrawat53@gmail.com . \n\n -> I love anime as you know I'm  Rawat_Senpai 😁."/>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+
+                    app:cardCornerRadius="22dp"
+                    app:cardElevation="5dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="My Social Media Handle"
+                        android:textSize="18sp"
+                        android:textColor="#FFFDFD"
+                        android:background="#EB263345"
+                        android:gravity="center"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:textStyle="bold"/>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardElevation="8dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    app:cardCornerRadius="22dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#EB263345"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <View
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:background="@drawable/ic_linkedin"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            android:id="@+id/To_Linkedin"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="Linkedin"
+                            android:gravity="center_vertical"
+                            android:textColor="#FFFDFD"
+                            android:letterSpacing="0.04"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:textSize="17sp"
+                            android:padding="5dp"
+                            android:layout_marginStart="10dp"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    app:cardElevation="8dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    app:cardCornerRadius="22dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#EB263345"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <View
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:background="@drawable/ic_instagram"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            android:id="@+id/To_Instagram"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="Instagram"
+                            android:gravity="center_vertical"
+                            android:textColor="#FFFDFD"
+                            android:letterSpacing="0.04"
+                            android:textSize="17sp"
+                            android:padding="5dp"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:layout_marginStart="10dp"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardElevation="8dp"
+
+                    app:cardCornerRadius="22dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#EB263345"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <View
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:padding="3dp"
+                            android:background="@drawable/ic_github_"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            android:id="@+id/To_Github"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="Git Hub"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:gravity="center_vertical"
+                            android:textColor="#FFFDFD"
+                            android:letterSpacing="0.04"
+                            android:textSize="17sp"
+                            android:padding="5dp"
+                            android:layout_marginStart="10dp"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:clickable="true"
+                    android:focusable="true"
+                    app:cardElevation="8dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="30dp"
+                    app:cardCornerRadius="22dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#EB263345"
+
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <View
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:background="@drawable/ic_twitter_ic"
+                            android:layout_marginStart="20dp"/>
+
+                        <TextView
+                            android:id="@+id/To_Twitter"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="Twitter"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:gravity="center_vertical"
+                            android:textColor="#FFFDFD"
+                            android:letterSpacing="0.04"
+                            android:textSize="17sp"
+                            android:padding="10dp"
+                            android:layout_marginStart="10dp"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
